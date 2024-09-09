@@ -38,6 +38,12 @@ Welcome to my GitHub portfolio. I'm a passionate Cybersecurity Analyst and a bac
 - **Threat Analysis**
 - **Intrusion Detection Systems (IDS)**
 
+## 🔧 Security Tools and Techniques
+
+- **Tools:** ![Metasploit](https://img.shields.io/badge/-Metasploit-7C3F2F?style=flat&logo=metasploit&logoColor=white) ![Nmap](https://img.shields.io/badge/-Nmap-000000?style=flat&logo=nmap&logoColor=white) ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
+- **Techniques:** Penetration Testing, Network Scanning, Social Engineering, Incident Response
+
+
 ## 🏆 Certifications
 
 - [Google Cybersecurity Professional Certificate](https://www.coursera.org/account/accomplishments/certificate/XYZ123)
