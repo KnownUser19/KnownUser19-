@@ -1,5 +1,7 @@
 <h1>Hi, I'm Tara! <br/><a href="https://github.com/KnownUser19"</a> <a href="https://www.linkedin.com/in/tarranikhitha/">Cybersecurity Professional</a></h1>
 
+Welcome to my GitHub portfolio. I'm a passionate Cybersecurity Analyst and a backend developer with a specialization in Intrusion Detection Systems (IDS). I'm also enthusiastic about exploring new technologies and contributing to impactful projects. Here’s a glimpse of my work and expertise.
+
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
@@ -21,6 +23,27 @@
 
 [instagram]:https://www.instagram.com/tara1_909/?hl=en
 [linkedin]: https://www.linkedin.com/in/tarranikhitha/
+
+
+## 🛠️ Skills and Expertise
+
+- **Languages:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+- **Frameworks:** ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+- **Tools:** ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+
+## 🚀 Cybersecurity Expertise
+
+- **Vulnerability Assessment**
+- **Cryptography**
+- **Threat Analysis**
+- **Intrusion Detection Systems (IDS)**
+
+## 🏆 Certifications
+
+- [Google Cybersecurity Professional Certificate](https://www.coursera.org/account/accomplishments/certificate/XYZ123)
+- [Data Science Internship at IIT Kanpur](https://www.linkedin.com/in/tara-datascience)
+- [DRDO Internship in IDS](https://www.linkedin.com/in/tara-drdo)
+
 
 <!--
 **KnownUser19/KnownUser19#** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
