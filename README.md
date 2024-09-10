@@ -15,7 +15,7 @@ Welcome to my GitHub portfolio. I'm a passionate Cybersecurity Analyst and a bac
     <td>XSS Attack</td>
     <td>Web Security, Cross-Site Scripting, Vulnerability Assessment</td>
     <td>Burp Suite, OWASP ZAP</td>
-    <td><a href="https://github.com/yourgithub/XSS-Attack" target="_blank">View on GitHub</a></td>
+    <td><a href="https://github.com/KnownUser19/XSS-Attack" target="_blank">View on GitHub</a></td>
   </tr>
   <tr>
     <td>SQL Injection Simulation</td>
