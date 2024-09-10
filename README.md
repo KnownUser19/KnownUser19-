@@ -2,23 +2,36 @@
 
 Welcome to my GitHub portfolio. I'm a passionate Cybersecurity Analyst and a backend developer with a specialization in Intrusion Detection Systems (IDS). I'm also enthusiastic about exploring new technologies and contributing to impactful projects. Here’s a glimpse of my work and expertise.
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Cybersecurity Professional Portfolio:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+<table border="1" cellspacing="0" cellpadding="10">
+  <tr>
+    <th>Project</th>
+    <th>Skills</th>
+    <th>Tools</th>
+    <th>Link</th>
+  </tr>
+  <tr>
+    <td>XSS Attack</td>
+    <td>Web Security, Cross-Site Scripting, Vulnerability Assessment</td>
+    <td>Burp Suite, OWASP ZAP</td>
+    <td><a href="https://github.com/yourgithub/XSS-Attack" target="_blank">View on GitHub</a></td>
+  </tr>
+  <tr>
+    <td>SQL Injection Simulation</td>
+    <td>Database Security, SQL Injection, Penetration Testing</td>
+    <td>SQLMap, Kali Linux</td>
+    <td><a href="https://github.com/yourgithub/SQL-Injection-Simulation" target="_blank">View on GitHub</a></td>
+  </tr>
+  <tr>
+    <td>Phishing Attack Simulation</td>
+    <td>Social Engineering, Email Security, Phishing Detection</td>
+    <td>Python, Flask, Selenium</td>
+    <td><a href="https://github.com/yourgithub/Phishing-Attack-Simulation" target="_blank">View on GitHub</a></td>
+  </tr>
+  <!-- Add more projects as needed -->
+</table>
+
 
 
 [instagram]:https://www.instagram.com/tara1_909/?hl=en
@@ -31,12 +44,38 @@ Welcome to my GitHub portfolio. I'm a passionate Cybersecurity Analyst and a bac
 - **Frameworks:** ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 - **Tools:** ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
-## 🚀 Cybersecurity Expertise
+## 🚀 **Cybersecurity Expertise**
 
-- **Vulnerability Assessment**
-- **Cryptography**
-- **Threat Analysis**
-- **Intrusion Detection Systems (IDS)**
+- ### **🔐 Vulnerability & Threat Management**
+  - **Key Skills:** Vulnerability Assessment, Risk Assessment, Threat Analysis, Cybersecurity Assessment, Information Assurance
+  - **Specializations:** Security Hardening, INFOSEC, Stakeholder Management
+
+- ### **🛡️ Intrusion Detection & Systems Security**
+  - **Key Tools:** IDS/IPS, SIEM Tools, Network Sniffing (Wireshark, Tcpdump), Intrusion Detection Systems
+  - **Protocols & Networking:** TCP/IP, Cloud Networking, Security Audits
+
+- ### **🔑 Cryptography & Authentication**
+  - **Key Skills:** Cryptography, Secure Communications, Authentication Mechanisms
+  - **Frameworks:** NIST (RMF & CSF), Playbooks, Security Audits
+
+- ### **💻 Programming & Development**
+  - **Languages:** Python, C, C++, SQL
+  - **Frameworks:** Flask, Web Development (Front-End/Back-End Integration), Linux/Bash, CLI
+  - **Best Practices:** PEP 8 Style Guide, Debugging, Code Optimization
+
+- ### **📊 Machine Learning & Data Science**
+  - **Specializations:** ML Algorithms, Anomaly Detection, Model Training & Evaluation, Feature Engineering
+  - **Data Tools:** Data Preprocessing, HR Analytics, Data Analysis & Visualization
+
+- ### **☁️ Cloud & Networking**
+  - **Skills:** Cloud Infrastructure, Cloud Networking, Security Hardening, Escalation Strategies
+  - **Technologies:** Azure, AWS, Kubernetes
+
+- ### **📈 Project Management & Leadership**
+  - **Core Competencies:** Program Management, Project Planning, Critical Thinking, Problem Solving
+  - **Key Qualities:** Integrity & Discretion, Stakeholder Management, Job Preparedness
+
+
 
 ## 🔧 Security Tools and Techniques
 
