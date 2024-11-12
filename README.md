@@ -13,7 +13,7 @@ Welcome to my GitHub portfolio. I'm a passionate Cybersecurity Analyst and a bac
   </tr>
   <tr>
     <td>KeyLogger</td>
-    <td>Stealthy, Monitoring, Malicious</td>
+    <td>Incident Response, Cryptography, Ethical Hacking</td>
     <td>VSCode, Pycharm or IDE </td>
     <td><a href="https://github.com/KnownUser19/XSS-Attack" target="_blank">View on GitHub</a></td>
   </tr>
