@@ -12,26 +12,13 @@ Welcome to my GitHub portfolio. I'm a passionate Cybersecurity Analyst and a bac
     <th>Link</th>
   </tr>
   <tr>
-    <td>XSS Attack</td>
-    <td>Web Security, Cross-Site Scripting, Vulnerability Assessment</td>
-    <td>Burp Suite, OWASP ZAP</td>
+    <td>KeyLogger</td>
+    <td>Stealthy, Monitoring, Malicious</td>
+    <td>VSCode, Pycharm or IDE </td>
     <td><a href="https://github.com/KnownUser19/XSS-Attack" target="_blank">View on GitHub</a></td>
-  </tr>
-  <tr>
-    <td>SQL Injection Simulation</td>
-    <td>Database Security, SQL Injection, Penetration Testing</td>
-    <td>SQLMap, Kali Linux</td>
-    <td><a href="https://github.com/yourgithub/SQL-Injection-Simulation" target="_blank">View on GitHub</a></td>
-  </tr>
-  <tr>
-    <td>Phishing Attack Simulation</td>
-    <td>Social Engineering, Email Security, Phishing Detection</td>
-    <td>Python, Flask, Selenium</td>
-    <td><a href="https://github.com/yourgithub/Phishing-Attack-Simulation" target="_blank">View on GitHub</a></td>
   </tr>
   <!-- Add more projects as needed -->
 </table>
-
 
 
 [instagram]:https://www.instagram.com/tara1_909/?hl=en
@@ -87,9 +74,8 @@ Welcome to my GitHub portfolio. I'm a passionate Cybersecurity Analyst and a bac
 
 - [Google Cybersecurity Professional Certificate](https://www.coursera.org/account/accomplishments/certificate/XYZ123)
 - [Data Science Internship at IIT Kanpur](https://www.linkedin.com/in/tara-datascience)
-- [DRDO Internship in IDS](https://www.linkedin.com/in/tara-drdo)
 
-
+  
 <!--
 **KnownUser19/KnownUser19#** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
